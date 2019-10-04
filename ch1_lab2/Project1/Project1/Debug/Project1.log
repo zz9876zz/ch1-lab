@@ -1,0 +1,4 @@
+﻿  User_defined.c
+  main.c
+c:\c_code\ch1_lab3\project1\project1\main.c(3): fatal error C1083: 無法開啟包含檔案: 'User_defined.h': No such file or directory
+  正在產生程式碼...
